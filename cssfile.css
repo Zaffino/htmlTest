@@ -22,7 +22,6 @@ footer{
 
 .shade{
 	background-image: url("https://cdn.pixabay.com/photo/2016/06/14/20/04/texture-1457392_1280.jpg");
-  /*background-repeat: no-repeat*/
 	background-size: cover;
 }
 
@@ -34,4 +33,14 @@ footer{
 .rootDiv {
     width: 100%;
     padding: 5px 10px;
-}}
+}
+
+.smallFigure{
+	width: 30%;
+	height: auto;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+	border: 5px;
+}
+}
