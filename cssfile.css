@@ -19,3 +19,13 @@ footer{
 .fixedPosition{
 	position: fixed;
 }
+
+.shade{
+	background-image: url("https://cdn.pixabay.com/photo/2016/06/14/20/04/texture-1457392_1280.jpg");
+  /*background-repeat: no-repeat*/
+	background-size: cover;
+}
+
+.transparent{
+	opacity: 0.7;
+}
