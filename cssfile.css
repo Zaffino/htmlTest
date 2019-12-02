@@ -6,6 +6,16 @@ footer{
 	margin: 0;
 	padding: 2;
 }
-body{
-	background-color: #dddddd
+
+.smallFigure{
+	width: 10%;
+	height: auto;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+	border: 5px;
+}
+
+.fixedPosition{
+	position: fixed;
 }
